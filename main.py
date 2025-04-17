@@ -1,6 +1,6 @@
 # Configurações iniciais
-token = '6963692330:AAE605_UX1fLt18Qa8NMC_l69f09IGLbTMg' # Insira o Token do seu Bot
-chat_id = -1002077929192 # Insira o CHAT ID do grupo
+token =7831379344:AAFYJPQTAJgC28SI7XD80J37mC7ng7uQ1cY ' # Insira o Token do seu Bot
+chat_id = --1002426001980# Insira o CHAT ID do grupo
 
 # Importações
 from selenium import webdriver
